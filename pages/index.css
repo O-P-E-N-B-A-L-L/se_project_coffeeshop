@@ -237,7 +237,6 @@
   display: flex;
   justify-content: center;
   gap: 12px;
-  font-weight: 500;
 }
 
 .form__label_type_checkbox::before {
