@@ -2,6 +2,12 @@
 
 This project serves as the main website for Triple Peaks Coffee Shop, a ficticious cafe in the town of Triple Peaks, including a header, recipes, reservations, a few menus, and an about page.
 
+## Project functionality
+
+- Website
+- Landing page
+- Reservation booking
+
 ## Project features
 
 - Semantic HTML5
