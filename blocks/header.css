@@ -31,6 +31,11 @@
   font-weight: 500;
   color: #000;
   text-decoration: none;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.nav__link:hover {
+  opacity: 50%;
 }
 
 .header__title {
