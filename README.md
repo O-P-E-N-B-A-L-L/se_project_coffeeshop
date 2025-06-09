@@ -22,3 +22,8 @@ This project serves as the main website for Triple Peaks Coffee Shop, a ficticio
 - Introduce a smooth transition between sections when scrolling
   - Give the sections a more 'fullscreen' feel to enhance transition feel
 - Add a sticky nav-bar to assist in jumping around the page
+
+## See the site in action
+
+You can view this site in its entirety by using the below GitHub Pages link:
+https://o-p-e-n-b-a-l-l.github.io/se_project_coffeeshop/
