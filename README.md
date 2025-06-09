@@ -25,5 +25,5 @@ This project serves as the main website for Triple Peaks Coffee Shop, a ficticio
 
 ## See the site in action
 
-You can view this site in its entirety by using the below GitHub Pages link:
+You can view this site in its entirety by using the below GitHub Pages link:  
 https://o-p-e-n-b-a-l-l.github.io/se_project_coffeeshop/
